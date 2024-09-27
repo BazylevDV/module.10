@@ -9,8 +9,8 @@ def read_info(name):
             line = file.readline()
             if not line:
                 break
-            # Здесь можно добавить обработку строк, если это необходимо
-            # Например, print(line) для вывода строк в консоль
+        
+        
 
 
 def linear_read(filenames):
@@ -30,7 +30,7 @@ def multiprocess_read(filenames):
 
 
 if __name__ == "__main__":
-    # Укажите полный путь к файлам
+
     filenames = [
         'C:/Users/bdv/PycharmProjects/pythonProject36/file 1.txt',
         'C:/Users/bdv/PycharmProjects/pythonProject36/file 2.txt',
