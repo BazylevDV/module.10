@@ -30,7 +30,7 @@ def multiprocess_read(filenames):
 
 
 if __name__ == "__main__":
-    # Укажите полный путь к файлам
+    #  полный путь к файлам
     filenames = [
         'C:/Users/bdv/PycharmProjects/pythonProject36/file 1.txt',
         'C:/Users/bdv/PycharmProjects/pythonProject36/file 2.txt',
